@@ -1,4 +1,4 @@
-# 📮 BuscaCe
+# 📮 BuscaCep
 
 Aplicação Java para consulta de endereços a partir de CEPs brasileiros, utilizando a API [ViaCEP](https://viacep.com.br/).
 
